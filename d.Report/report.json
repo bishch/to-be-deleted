@@ -27,10 +27,10 @@
       "name": "be8a3a034765c50702d9",
       "visualContainers": [
         {
-          "config": "{\"name\":\"014d5f4bc06be274a2cc\",\"layouts\":[{\"id\":0,\"position\":{\"x\":537.3399014778325,\"y\":219.9014778325123,\"z\":0,\"width\":280.1970443349754,\"height\":280.1970443349754,\"tabOrder\":0}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'rectangleRounded'\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}]}},\"howCreated\":\"InsertVisualButton\"}",
+          "config": "{\"name\":\"014d5f4bc06be274a2cc\",\"layouts\":[{\"id\":0,\"position\":{\"x\":537.3399014778325,\"y\":219.9014778325123,\"z\":0,\"width\":122.36453201970444,\"height\":23.054187192118228,\"tabOrder\":0}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'rectangleRounded'\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}]}},\"howCreated\":\"InsertVisualButton\"}",
           "filters": "[]",
-          "height": 280.20,
-          "width": 280.20,
+          "height": 23.05,
+          "width": 122.36,
           "x": 537.34,
           "y": 219.90,
           "z": 0.00
